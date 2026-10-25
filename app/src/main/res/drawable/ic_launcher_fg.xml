@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A simple pawn -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M54,30a9,9 0,1 1,0 18a9,9 0,1 1,0 -18z
+            M46,50h16l-3,4c4,6 7,13 8,20h-26c1,-7 4,-14 8,-20z
+            M38,76h32v6h-32z" />
+</vector>

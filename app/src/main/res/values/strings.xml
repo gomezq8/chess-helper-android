@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مساعد الشطرنج</string>
+    <string name="tap_desc">يسمح للتطبيق بلعب النقلة المقترحة بالضغط على الرقعة (اللعب التلقائي).</string>
+</resources>
